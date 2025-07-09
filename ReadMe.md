@@ -1,8 +1,8 @@
 # Practica de Motores de Videojuegos I - UCIC 
 
 ## Nombre del alumno/a:
-**Nombre(s):** [Ivan]  
-**Iniciales:** [IMM]
+**Nombre(s):** [Angelica]  
+**Iniciales:** [ATS]
 
 ## Practica #
 **Ti­tulo de la practica:** [Movimiento del personaje]  
