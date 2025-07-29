@@ -1,0 +1,9 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/InventarioStyles.uss?fileID=7433441132597879392&amp;guid=292cc985177dada4299ea83de6eeb41a&amp;type=3#InventarioStyles" />
+    <ui:VisualElement name="Recursos-inventario" class="recursos" style="flex-grow: 1; flex-direction: row; align-content: auto; align-items: stretch; flex-basis: auto;">
+        <ui:VisualElement name="Recursoshuevo" class="recursos" style="flex-grow: 1; flex-direction: row; align-content: auto; align-items: stretch;">
+            <ui:VisualElement name="Iconohuevo" style="flex-grow: 1; align-items: stretch; width: 24px; height: 24px; align-content: auto; background-image: url(&quot;project://database/Assets/Sprites/objects/Egg_item.png?fileID=21300000&amp;guid=da53af06d86123d48acb918e45f91000&amp;type=3#Egg_item&quot;); flex-direction: row; -unity-background-scale-mode: scale-and-crop;" />
+            <ui:Label text="0&#10;" name="Labelhuevo" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

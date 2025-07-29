@@ -1,0 +1,6 @@
+:root {
+}
+
+.recursos {
+    flex-grow: initial;
+}
