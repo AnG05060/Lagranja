@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Movvaca : MonoBehaviour
+public class MovimientoVaca : MonoBehaviour
 {
     public Transform areaMovimiento;
     public float velocidad = 1f;
